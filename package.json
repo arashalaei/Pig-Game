@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "name": "Pig-Game",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arashalaei/Pig-Game.git"
+  },
+  "keywords": [],
+  "author": "Arash Alaei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arashalaei/Pig-Game/issues"
+  },
+  "homepage": "https://arashalaei.github.io/arashalaei/Pig-Game",
+  "description": ""
+}
